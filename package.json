@@ -1,0 +1,12 @@
+{
+  "name": "node-sql-dlc",
+  "description": "This is a Node.js based DLC connecting to MS SQL Server",
+  "author": "Paras Wadehra @ParasWadehra",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "mssql": "^2.1.2",
+    "request": "^2.55.0"
+  }
+}
