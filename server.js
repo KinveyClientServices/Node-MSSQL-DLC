@@ -22,7 +22,8 @@ var config = {
     user: '<username>', // TODO: Replace <username> with the actual username of the DB user
     password: '<password>', // TODO: Replace <password> with the actual password of the DB user
     server: '<ServerName>', // TODO: Replace <ServerName> with the actual name/IPAdress of the SQL Server
-    database: '<DBName>' // TODO: Replace <DBName> with the name of the database you want to connect to
+    database: '<DBName>', // TODO: Replace <DBName> with the name of the database you want to connect to
+    port: <port> // TODO: Replace <port> with the port you can connect to server at. In most cases this will be 1433
 
     // options: {
     //     encrypt: true // Use this if you're on Windows Azure
